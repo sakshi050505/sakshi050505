@@ -13,7 +13,7 @@
 
 ## 📫 How to Reach Me
 - GitHub: [@sakshi050505](https://github.com/sakshi050505)  
-- Email: your-sakshisandeepchavan16@gmail.com 
+- Email: sakshisandeepchavan16@gmail.com 
 
 ## ⚡ Fun Facts
 - Always curious to learn something new every day 🧩  
