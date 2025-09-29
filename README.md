@@ -29,8 +29,23 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+
+## 🏆 Achievements  
+- Based on **38.25 hours** of dedicated study and **30 completed units** on MongoDB Learning, I have earned **4 official Skill Badges**:
+- ✅ **Relational Model (SQL) to MongoDB's Document Model Skill Badge**
+- ✅ **Building GenAI Applications with MongoDB Learning Badge** (Focus on modern applications)
+- ✅ Completed [MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://learn.mongodb.com/certificates/skill-badge-schema-design-patterns)  
+- ✅ Completed [MongoDB Basics for Students](https://learn.mongodb.com/certificates/mongodb-basics-for-students)
+
+➡️ **View and verify all badges on Credly** [ https://learn.mongodb.com/dashboard ]
+ 
+- 🎯 Active learner on **GeeksforGeeks** 
+- 💡 Built academic projects using **databases & AI concepts**  
 
 
+
+⭐ *“Code. Learn. Share. Grow.”*  
 
 <!---
 sakshi050505/sakshi050505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
