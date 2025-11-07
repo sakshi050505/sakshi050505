@@ -4,7 +4,7 @@
 
 ## 🌱 Currently Learning
 - **Languages & Tools:** MySQL, Python, C++  
-- **Interests:** Algorithms, Data Structures, Web Development, Database Management, AI & ML  
+- **Interests:** Algorithms, Data Structures, Web Development, Database Management,CRM. 
 
 ## 💞️ I’m Looking to Collaborate On
 - Open-source projects  
