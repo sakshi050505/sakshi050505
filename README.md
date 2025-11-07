@@ -32,7 +32,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 
 ## 🏆 Achievements  
-1) Based on **38.25 hours** of dedicated study and **30 completed units** on MongoDB Learning, I have earned **4 official Skill Badges**:
+1)Based on **38.25 hours** of dedicated study and **30 completed units** on MongoDB Learning, I have earned **4 official Skill Badges**:
 - ✅ **Relational Model (SQL) to MongoDB's Document Model Skill Badge**
 - ✅ **Building GenAI Applications with MongoDB Learning Badge** (Focus on modern applications)
 - ✅ Completed [MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://learn.mongodb.com/certificates/skill-badge-schema-design-patterns)  
@@ -42,6 +42,7 @@
 
 
 2)**Over 12 hours and 45 minutes of comprehensive learning, I’ve successfully completed the AWS Cloud Practitioner Essentials certification program by Amazon Web Services (AWS)! 🎓**.
+ 
   -☁️ Introduction to the Cloud & Compute Services.
   -🌍 Global Infrastructure & Networking.
   -💾 Storage & Databases.
